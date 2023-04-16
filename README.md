@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ChangwooLim, 
 - I'm student of Chungbuk National University, South Korea
-- I'm currently studying medicine, sophomere of Pre-med course.
 - I'm currently working at @zarathucorp, developer.
 - You can reach me through
 -   limcw@chungbuk.ac.kr
